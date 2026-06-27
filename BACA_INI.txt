@@ -1,0 +1,2 @@
+Letakkan file fpdf.php di folder ini.
+Download dari: http://www.fpdf.org
